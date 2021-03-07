@@ -39,7 +39,7 @@ def header():
 # SELECT_MAIN
 def opt():
     print(cyan + "\n==> Select Your Option From Below")
-    print(yellow + "\n\n [1] Start BD SMS Bombing\n\n [2] Back to ROC-X")
+    print(yellow + "\n\n [1] Start BD SMS Bombing\n\n [2] Back to CYBER-X")
 
 
 # MAIN_TOOL
